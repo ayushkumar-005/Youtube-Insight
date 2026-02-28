@@ -1,0 +1,9 @@
+# OpenClaw specifics
+.clawhub/
+.openclaw/
+*.json
+!README.md
+
+# Python
+__pycache__/
+*.pyc
