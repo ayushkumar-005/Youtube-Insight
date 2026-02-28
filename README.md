@@ -1,6 +1,6 @@
-# 🤖 Telegram YouTube Summarizer & Q&A Bot
+# Youtube Insight
 
-A highly optimized, business-focused Telegram bot built with the OpenClaw framework, Python, and GLM-5. It acts as a personal AI research assistant, allowing users to extract structured insights from YouTube videos, ask contextual follow-up questions, and consume content in multiple languages (English and Other Indian Languages).
+It is a Telegram YouTube Summarizer & Q&A Bot built with the OpenClaw framework, Python, and GLM-5. It acts as a personal AI research assistant, allowing users to extract structured insights from YouTube videos, ask contextual follow-up questions, and consume content in multiple languages (English and Other Indian Languages).
 
 ## 📋 Features
 
