@@ -71,3 +71,7 @@ Here is why this specific architecture was chosen:
 ![Summary](https://i.ibb.co/nsfpJFpz/00.png)
 ![Translation](https://i.ibb.co/TDTqZpW1/01.png)
 ![Edge Handling](https://i.ibb.co/ymWPPqWt/02.png)
+
+## 🎬 Demo Video
+
+![https://youtu.be/nOsqjqQ9PrY](https://youtu.be/nOsqjqQ9PrY)
