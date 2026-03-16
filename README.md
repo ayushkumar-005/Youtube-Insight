@@ -74,4 +74,4 @@ Here is why this specific architecture was chosen:
 
 ## 🎬 Demo Video
 
-![https://youtu.be/nOsqjqQ9PrY](https://youtu.be/nOsqjqQ9PrY)
+[![Youtube Video](https://img.youtube.com/vi/nOsqjqQ9PrY/0.jpg)](https://www.youtube.com/watch?v=nOsqjqQ9PrY)
